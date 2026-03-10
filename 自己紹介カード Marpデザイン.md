@@ -384,8 +384,8 @@ style: |
 
 <div class="header">
   <div class="header-left">
-    <div class="name-ja">西村耕太郎</div>
-    <div class="name-en">Nishimura Kohtaro<br>Web Partner for Growth</div>
+    <div class="name-ja">西村 耕太郎</div>
+    <div class="name-en">Kohtaro Nishimura<br>Web Designer & Marketer</div>
   </div>
   <div class="tagline">
     <img src="Logotype_white.png" alt="COBWEB logo">
